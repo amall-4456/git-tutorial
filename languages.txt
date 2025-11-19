@@ -4,4 +4,5 @@ javascript
 ++c
 
 :foreign languages
-    french
+   french
+ french
