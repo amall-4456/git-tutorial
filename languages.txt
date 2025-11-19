@@ -1,3 +1,7 @@
+:programming languages
 Python
 javascript
 ++c
+
+:foreign languages
+    french
